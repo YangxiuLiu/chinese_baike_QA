@@ -21,7 +21,7 @@ GPT大模型中文百科问答常识语料库
 ```
 ## 关键词
 
-中文 百科常识 百科问答 世界常识 常识问答 常识 问答 QA NLP GPT
+中文：百科常识 百科问答 世界常识 常识问答 常识 问答 QA NLP GPT
 
 english：chinese Encyclopedia knowledge Encyclopedia QA World knowledge General knowledge Q&A General knowledge Q&A
 
